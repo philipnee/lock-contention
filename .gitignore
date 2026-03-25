@@ -1,0 +1,43 @@
+# IntelliJ / JetBrains
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# Maven / build output
+target/
+out/
+build/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+replay_pid*
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+nbproject/
+nbbuild/
+dist/
+
+# Generated benchmark/report output
+result.md
+results/
+jmh-result.*
